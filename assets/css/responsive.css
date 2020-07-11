@@ -1,0 +1,221 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ .single-logo {
+	margin-left: 60px;
+}
+.work-img1 img {
+	height: 547px;
+}
+.team-hover h4 {
+	font-size: 18px;
+}
+.team-hover p {
+	font-size: 13px;
+}
+.team-icon i {
+	padding-left: 4px;
+}
+.team-hover {
+	left: 15px;
+}
+.test-img1 {
+	left: 230px;
+	top: 15px;
+}
+.test-img2 {
+	right: 230px;
+	top: 20px;
+}
+.test-img1 img, .test-img2 img {
+	border-radius: 50%;
+	width: 128px;
+}
+.footer-list {
+	margin: 80px 106px;
+}
+.right i {
+	left: 42%;
+}
+.right p span {
+	padding-left: 23px;
+}
+.pt-80 {
+	padding-top: 0;
+}
+.single-counter h4::before {
+	left: 63px;
+}
+.footer-img img {
+	margin-top: 80px;
+}
+.right p {
+	margin-left: 29px;
+}
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .right p span {
+	padding-left: 30px;
+}
+.right i {
+	padding-left: 0;
+	left: 41%;
+}
+.team-hover {
+	left: 15px;
+}
+.single-team{
+	margin-bottom: 20px;
+}
+.right p {
+	margin-left: 18px;
+}
+.single-deal {
+	margin-bottom: 20px;
+}
+.single-price {
+	margin-bottom: 20px;
+}
+.single-counter h4 {
+	font-size: 40px;
+}
+.single-counter h4::before {
+	width: 60px;
+	top: 87px;
+	left: 44px;
+}
+.single-counter p {
+	font-size: 16px;
+}
+.test-img2 {
+	right: 429px;
+	top: 13px;
+}
+.test-img1 {
+	left: 430px;
+	top: 24px;
+}
+.test-img1 img, .test-img2 img {
+	width: 111px;
+}
+.content-test p {
+	margin: 60px 0;
+}
+.single-logo {
+	margin-left: 12px;
+}
+.footer-list {
+	margin: 50px 0;
+}
+.footer-list a {
+	padding: 10px 27px;
+}
+.slider-content h1 {
+	font-size: 39px;
+}
+
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.section-title h4 {
+	font-size: 22px;
+}
+ .footer-list {
+	margin: 0;
+}
+.single-bloge a {
+	font-size: 18px;
+}
+.content-test p {
+	font-size: 15px;
+	margin: 0;
+}
+.single-price {
+	margin-bottom: 20px;
+}
+.price-title h4 {
+	font-size: 20px;
+}
+.count-chart h3 {
+	font-size: 14px;
+}
+.single-feature {
+	margin-bottom: 59px;
+}
+.team-hover h4 {
+	font-size: 18px;
+	margin-bottom: 0;
+}
+.team-icon i {
+	padding-left: 4px;
+}
+.team-hover p {
+	font-size: 13px;
+	margin-top: 13px;
+}
+.slider-content h1 {
+	font-size: 25px;
+}
+.single-team {
+	margin-bottom: 30px;
+}
+.slider-content p {
+	font-size: 15px;
+}
+.box-btn {
+	padding: 10px 25px;
+	margin-bottom: 25px;
+}
+.pb-80 {
+	padding-bottom: 0;
+}
+.single-deal {
+	margin-bottom: 20px;
+}
+.footer-img img {
+	width: 104px;
+}
+.right p span {
+	padding-left: 25px;
+	font-size: 17px;
+}
+.right i {
+	font-size: 15px;
+	padding-left: 0;
+	top: 50%;
+	left: 25%;
+}
+.contact-left h4 {
+	font-size: 21px;
+}
+.contact-left p {
+	font-size: 14px;
+}
+.contact-form input {
+	font-size: 16px;
+}
+.contact-form input[type="submit"] {
+	font-size: 16px;
+	width: 46%;
+}
+.contact-right p {
+	font-size: 15px;
+}
+.office h4 {
+	font-size: 16px;
+}
+.office span {
+	font-size: 15px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
